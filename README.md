@@ -80,7 +80,7 @@ know!](https://github.com/buttplugio/awesome-buttplug/issues)
     interactive scenes.
 - [Heat](https://www.anthroheat.com/)
   - Crowdfunded, available on [Patreon](https://www.patreon.com/heatgame)
-  - Windows 10+ only, VR Only
+  - Windows 10+ only, VR/2D
   - Furry focused, integrates [Buttplug Unity](https://github.com/buttplugio/buttplug-unity) for toy
     control within interactive scenes.
 - [VRHOT](https://store.steampowered.com/app/1571340/)
